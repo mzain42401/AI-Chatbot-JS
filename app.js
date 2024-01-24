@@ -46,3 +46,29 @@
 //     maried:false
 // }
 // console.table(d);
+
+
+
+// operators in JS 
+
+// + add , concat include
+// - subtract  , 
+// * multiply ,
+// / divission,
+// % modulas
+
+// console.log(2+3);
+// console.log("zain");
+
+// console.log(10 +20);
+
+// console.log("Huzefa" + "aziz"); //concatination
+// d=int[]
+// d=3 + 2 + ''
+
+// var d=Number("6") + Number("9")
+
+// d+="" 
+// d=
+// console.log(typeof(d) , d);
+// console.log(typeof(cxx));
