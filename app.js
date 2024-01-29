@@ -72,3 +72,21 @@
 // d=
 // console.log(typeof(d) , d);
 // console.log(typeof(cxx));
+
+
+
+// console.log("10");
+
+
+// const cars = ["Saab", "Volvo", "BMW"];
+
+// console.log(cars.length);
+// console.log(cars.);
+
+
+var countries=[]
+countries[0]="pakistan"
+countries[1]="plastine"
+document.write(countries)
+console.log(countries);
+
